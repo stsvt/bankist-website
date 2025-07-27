@@ -25,7 +25,7 @@ This is a learning project built as part of deepening frontend development and J
 
 ## 📸 Screenshots
 
-![Bankist Website Screenshot](./screenshot.png) <!-- Replace with your screenshot image -->
+![Bankist Website Screenshot](./img/screenshot.png)
 
 ## ⚙️ Getting Started Locally
 
